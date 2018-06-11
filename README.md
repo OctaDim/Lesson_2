@@ -1,2 +1,2 @@
 # Lesson_2
-Lesson_2 (Git teaching)
+Lesson_2 (Git learning)
